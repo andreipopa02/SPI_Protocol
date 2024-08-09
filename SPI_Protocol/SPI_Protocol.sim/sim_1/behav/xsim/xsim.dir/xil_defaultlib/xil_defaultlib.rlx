@@ -1,0 +1,10 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+D:/Summer_Practice_2024/SPI_Protocol/SPI_Protocol/SPI_Protocol.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+D:/Summer_Practice_2024/SPI_Protocol/SPI_Protocol/SPI_Protocol.srcs/sources_1/new/SPI.v,1723235448,verilog,,D:/Summer_Practice_2024/SPI_Protocol/SPI_Protocol/SPI_Protocol.srcs/sources_1/new/SPI_Master.v,,SPI,,,,,,,,
+D:/Summer_Practice_2024/SPI_Protocol/SPI_Protocol/SPI_Protocol.srcs/sources_1/new/SPI_Master.v,1723235135,verilog,,D:/Summer_Practice_2024/SPI_Protocol/SPI_Protocol/SPI_Protocol.srcs/sources_1/new/SPI_Modules.v,,SPI_Master,,,,,,,,
+D:/Summer_Practice_2024/SPI_Protocol/SPI_Protocol/SPI_Protocol.srcs/sources_1/new/SPI_Modules.v,1723233628,verilog,,D:/Summer_Practice_2024/SPI_Protocol/SPI_Protocol/SPI_Protocol.srcs/sources_1/new/SPI_Slave.v,,counter;freq_divider;freq_divider_MUX;fsm_master;fsm_slave;shift_register_master;shift_register_slave,,,,,,,,
+D:/Summer_Practice_2024/SPI_Protocol/SPI_Protocol/SPI_Protocol.srcs/sources_1/new/SPI_Slave.v,1723233938,verilog,,D:/Summer_Practice_2024/SPI_Protocol/SPI_Protocol/SPI_Protocol.srcs/sources_1/new/tb_SPI.v,,SPI_Slave,,,,,,,,
+D:/Summer_Practice_2024/SPI_Protocol/SPI_Protocol/SPI_Protocol.srcs/sources_1/new/tb_SPI.v,1723234626,verilog,,,,tb_top,,,,,,,,
